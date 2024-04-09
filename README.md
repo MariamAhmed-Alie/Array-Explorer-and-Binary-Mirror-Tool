@@ -20,7 +20,7 @@ This Python script provides a collection of functions for array manipulation and
 2. Open a terminal or command prompt and navigate to the directory where the script is located.
 3. Run the script using the following command:
    
-python array_explorer_binary_mirror.py
+   python array_explorer_binary_mirror.py
 
 4. The script will display a menu with different options. Enter the number corresponding to the desired operation.
 5. Follow the prompts to provide the necessary inputs for each operation.
